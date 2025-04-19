@@ -1,4 +1,3 @@
-
 import { Button } from "@/components/ui/button";
 import { MapPin, Calendar, CirclePlus } from "lucide-react";
 
@@ -56,7 +55,7 @@ const Hero = () => {
                     {/* Barra superior */}
                     <div className="bg-javea-blue text-white p-4">
                       <div className="flex justify-between items-center">
-                        <h3 className="font-bold">Javea2Live2</h3>
+                        <h3 className="font-bold">Townsense</h3>
                         <MapPin className="w-5 h-5" />
                       </div>
                     </div>

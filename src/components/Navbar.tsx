@@ -36,7 +36,7 @@ const Navbar = () => {
     >
       <div className="container max-w-7xl mx-auto px-4 flex items-center justify-between">
         <a href="#" className="flex items-center space-x-2">
-          <span className="text-2xl font-bold text-javea-blue">Javea<span className="text-javea-turquoise">2Live2</span></span>
+          <span className="text-2xl font-bold text-javea-blue">Town<span className="text-javea-turquoise">sense</span></span>
         </a>
 
         {!isMobile ? (

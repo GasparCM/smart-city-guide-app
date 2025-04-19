@@ -1,5 +1,4 @@
-
-import { MapPin, Users, Calendar, CircleCheck, FileText, Language, Phone } from "lucide-react";
+import { MapPin, Users, Calendar, CircleCheck, FileText, Languages, Phone } from "lucide-react";
 
 const features = [
   {
@@ -28,7 +27,7 @@ const features = [
     description: "Sistema para que ciudadanos y visitantes informen de problemas o mejoras en el municipio."
   },
   {
-    icon: <Language className="w-8 h-8 text-javea-blue" />,
+    icon: <Languages className="w-8 h-8 text-javea-blue" />,
     title: "Multilingüe",
     description: "Traducción automática a múltiples idiomas para atender a visitantes internacionales."
   }
